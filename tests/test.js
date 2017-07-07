@@ -1,7 +1,7 @@
 var assert = require('assert');
 var webdriver = require('selenium-webdriver');
 var test = require('selenium-webdriver/testing');
-var IndexPage = require('./index.page.js');
+var IndexPage = require('../model/index.page.js');
 
 const mochaTimeOut = 30000; //ms
  
