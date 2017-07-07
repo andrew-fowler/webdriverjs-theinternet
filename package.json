@@ -8,5 +8,5 @@
     "saucelabs": "0.1.1",
     "selenium-webdriver": "^3.4.0"
   },
-  "scripts" : { "test" : "./node_modules/mocha/bin/mocha ./tests/test.js" } 
+  "scripts" : { "tests" : "./node_modules/mocha/bin/mocha ./tests/" } 
 }
